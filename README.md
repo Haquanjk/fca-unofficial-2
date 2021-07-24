@@ -1,7 +1,7 @@
 This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).
 
 # Unofficial Facebook Chat API
-<img alt="version" src="https://img.shields.io/github/package-json/v/demngayyeu/fca-unofficial?label=github&style=flat-square">
+<img alt="version" src="https://img.shields.io/github/package-json/v/miraiPr0ject/fca-unofficial?label=github&style=flat-square">
 
 Facebook now has an official API for chat bots [here](https://developers.facebook.com/docs/messenger-platform).
 
@@ -16,7 +16,7 @@ See the [full changelog](/CHANGELOG.md) for release details.
 ## Install
 If you just want to use fca-unofficial, you should use this command:
 ```bash
-npm install @demngayyeu/fca-unofficial
+npm install @miraipr0ject/fca-unofficial
 ```
 It will download `fca-unofficial` from NPM repositories
 
