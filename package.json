@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/miraiPr0ject/fca-unofficial.git"
+    "url": "git://github.com/demngayyeu/fca-unofficial.git"
   },
   "keywords": [
     "facebook",
@@ -18,7 +18,7 @@
     "fca"
   ],
   "bugs": {
-    "url": "https://github.com/miraiPr0ject/fca-unofficial/issues"
+    "url": "https://github.com/demngayyeu/fca-unofficial/issues"
   },
   "author": "Avery, David, Maude, Benjamin, UIRI, MiraiTeam",
   "license": "MIT",
@@ -73,7 +73,7 @@
       ]
     }
   },
-  "homepage": "https://github.com/miraiPr0ject/fca-unofficial#readme",
+  "homepage": "https://github.com/demngayyeu/fca-unofficial#readme",
   "main": "index.js",
   "directories": {
     "test": "test"
